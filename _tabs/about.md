@@ -9,4 +9,3 @@ order: 4
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The aim of this page is multifaceted; I hope for it serve as a CV that's updated seamlessly, and a place to house projects that I take on in my free time (most of which will revolve around various other data analysis puruits). The occassional--but hopefully not sparse!-- academic paper I contribute to will be uploaded and/or discussed here, as well.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check back in every so often for updates in my work!
-test
