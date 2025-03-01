@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title:  "Measles Vaccine Shmeales Vaccine"
+title:  "Physicians for Informed Consent, Measles Vaccine Misinformation and Bad, No Good Statistics"
 categories: [Misinformation response]
 ---
 
