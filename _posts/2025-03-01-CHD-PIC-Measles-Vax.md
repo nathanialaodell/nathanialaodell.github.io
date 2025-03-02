@@ -3,6 +3,7 @@ published: true
 layout: post
 title:  "Physicians for Informed Consent, Measles Vaccine Misinformation and Bad, No Good Statistics"
 categories: [Misinformation response]
+description: The PIC seems quite confused; let's try to clarify their mess.
 ---
 
 In what has become our new norm, everyone's favorite grifters at the Children's Health Defense (CHD) has recently(ish) released yet [another](https://childrenshealthdefense.org/defender/measles-mumps-rubella-infection-mmr-vaccine-risk/) article railing against the measles vaccine. The claims made in the article hilariously entitled "No Proof MMR Vaccine Is ‘Safer’ than Measles, Mumps or Rubella Infection, Physician Group Says" rely largely on evidence and data presented on the [Physicians for Informed Consent](https://physiciansforinformedconsent.org/) (PIC), which "has a vision of... evaluating data objectively". A very noble mission indeed, and one that all researchers and medical practitioners should strive for. 
