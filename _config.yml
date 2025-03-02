@@ -218,5 +218,5 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /tags/:name/
+    tag: /tags/:year/:name/
     category: /categories/:name/
