@@ -5,14 +5,17 @@ title:  "Physicians for Informed Consent, Measles Vaccine Misinformation and Bad
 categories: [Misinformation response]
 ---
 
-In what has become our new norm, the Children's Health Defense (CHD) has recently(ish) released yet [another](https://childrenshealthdefense.org/defender/measles-mumps-rubella-infection-mmr-vaccine-risk/) article railing against the measles vaccine. The claims made in the article hilariously entitled "No Proof MMR Vaccine Is ‘Safer’ than Measles, Mumps or Rubella Infection, Physician Group Says" rely largely on evidence and data presented on the [Physicians for Informed Consent](https://physiciansforinformedconsent.org/) (PIC), which "has a vision of... evaluating data objectively". A very noble mission indeed, and one that all researchers and medical practitioners should strive for. 
+In what has become our new norm, everyone's favorite grifters at the Children's Health Defense (CHD) has recently(ish) released yet [another](https://childrenshealthdefense.org/defender/measles-mumps-rubella-infection-mmr-vaccine-risk/) article railing against the measles vaccine. The claims made in the article hilariously entitled "No Proof MMR Vaccine Is ‘Safer’ than Measles, Mumps or Rubella Infection, Physician Group Says" rely largely on evidence and data presented on the [Physicians for Informed Consent](https://physiciansforinformedconsent.org/) (PIC), which "has a vision of... evaluating data objectively". A very noble mission indeed, and one that all researchers and medical practitioners should strive for. 
+
+As is usual of The Defender (the "news" arm of the CHD), this article features bad statistics, dubious claims, and the pedaling of dangerous alternative-facts. Let's dig in.
 
 EDIT: I should note that I began this post prior to the measles outbreak in Gaines County, Texas, began. Take the irony of that as you read through this post as you will. 
 
 # The Main Claim
+---
 The main claim of this article can be best described as dubious at best, and intentionally vague at worst. What exactly is meant by "harmful" in the context of the measles vaccine is elusive, likely purposely so. Does the vaccine have higher mortality rates than the MMR infection? Is it side-effects of the vaccine that we are comparing to adverse health effects of MMR infection? If so, which side effects, and how do we know that their is a causal relationship between said side effect and our outcome? By not specifying *what it even is that we are talking about* it allows these bad faith arguments to be impossible to properly address. When you counter claims of higher mortality rates due to vaccine-related side effects when compared to MMR-related deaths, they can simply say that they were never arguing that point, anyway. And technically they would be right, because they never established what it was that they were arguing. 
 
-In any case, [this](https://physiciansforinformedconsent.org/mmr-vrs/) report referenced in the CHD article is where the bulk of iffy-science and plain bad stats comes from. Let's tackle it bit by excruciating bit.
+[This](https://physiciansforinformedconsent.org/mmr-vrs/) report referenced in the CHD article is where the bulk of iffy-science and plain bad stats comes from. Let's tackle it bit by excruciating bit.
 
 # The Good of the PIC MMR Vaccine Risk Report
 ---
@@ -81,6 +84,7 @@ This is a rather simplistic definition that ultimately misses the nuances of the
 In any case, if the adjusted RR and unadjusted RR have a difference as high as 36% (according to PIC's own figures; see table 1 below), [it is likely that we have confounding, anyway](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0031-1298595.pdf)... 
 
 ### Bad, No Good, Ugly Statistics Interpretations
+---
 
 They then go on to claim that a well-known 2022 [Danish study](https://www.nejm.org/doi/full/10.1056/NEJMoa021134?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed) that examined whether there is an association between MMR vaccination and autism. In it, they naturally controlled for confounders such as age, socioeconomic status, birth weight, etc. The PIC's counter to this study's findings can be boiled down to "nuh uh". 
 > The raw data in the study was adjusted, in an attempt to account for potential confounders, and the study found no association between the MMR vaccine and the adverse events. However, because there is no evidence that the estimated confounders used to adjust the raw data were actually confounders, the study did not rule out the possibility that the MMR vaccine increases the risk of an adverse event that leads to permanent injury by up to 77%
@@ -91,21 +95,20 @@ There are many problems with this 77% figure, and so in an effort to demystify (
 
 To begin, their definition of the confidence interval is simply not very good--allow me to use an analogy to illustrate why. To do this, we have to suspend our disbelief regarding confounders and assume that the PIC is correct regarding that issue; a difficult task but one that we should take on nonetheless. The first reported RR is that of the original study after they adjusted for confounders: 0.92 (95% CI: 0.68, 1.24), which is the same as saying that the risk of autism in vaccinated children is 8% lower than unvaccinated, pointing to the MMR vaccine being a preventative exposure. When we don't control for confounders, we instead observe an effect of vaccinated children being at a 45% higher risk of autism than unvaccinated children (RR = 1.45 (95% CI: 1.21, 1.77)). They then go on to say that the "potential RR" is 1.77, which translates to a 77% greater risk of autism in vaccinated children. A very scary figure indeed.
 
-But where did that 1.77 number come from? It isn't equal to the "unaltered RR" (1.45). What is it equal to? Drum roll please... **The upper limit of the unaltered RR's confidence interval**. This is comically bad statistics. here's where that analogy comes into play: before Mount Everest was discovered, what was the tallest mountain in the world? The answer is Mount Everest. This is, in effect, what a confidence interval actually illustrates: your population parameter has already occurred and is thus fixed, but it is unknown to you. That is, the data you collected is random, and so your **estimated** interval may or may not contain the **true, unknown** parameter (rate febrile seizures). Claiming that the upper limit of your interval is the "potential RR" is complete nonsense and illustrates a complete lack of understanding of fundamental, elementary statistical methodology. 
+But where did that 1.77 number come from? It isn't equal to the "unaltered RR" (1.45). What is it equal to? Drum roll please... **The upper limit of the unaltered RR's confidence interval**. This is comically bad statistics. Here's where that analogy comes into play: before Mount Everest was discovered, what was the tallest mountain in the world? The answer is Mount Everest. This is, in effect, what a confidence interval actually illustrates: your population parameter has already occurred and is thus fixed, but it is unknown to you. That is, the data you collected is random, and so your **estimated** interval may or may not contain the **true, unknown** parameter (rate febrile seizures). Claiming that the upper limit of your interval is the "potential RR" is complete nonsense and illustrates a complete lack of understanding of fundamental, elementary statistical methodology. 
 
 
 # Circling Back to CHD
 ---
-I am sure that for the uninformed and the reporters employed at the CHD, such as the one that wrote the very article that spawned this response (a UT alumni, by the way. Plus one for the Red Raiders!), it is exciting to think that you are combatting the big bad. That you have your third eye open, or whatever. I believe the confirmation of RFK Jr. as the HHS secretary confirms that this is a increasingly popular sentiment in the United States. 
+I am sure that for the uninformed and the reporters employed at the CHD, such as the one that wrote the very article that spawned this response (a UT alumni, by the way. Plus one for the Red Raiders!), it is exciting to think that you are combatting the big bad. That you have your third eye open. I believe the confirmation of RFK Jr. as the HHS secretary confirms that this is a increasingly popular sentiment in the United States. 
 
-The continued, seemingly unstoppable degradation of education in this country saddens me greatly. But, as any money-starved yet humble researcher would agree, what might mend my wounds is some Big Pharma money.
+This continued, seemingly unstoppable degradation of education in this country saddens me greatly. But, as any money-starved yet humble researcher would agree, what might mend my wounds is some Big Pharma money. With enough money I might just be able to wipe my tears away.
 
-So! I implore someone to connect me with one of these Big Pharma companies that manages to simultaneously operate in the shadows and control the entire epidemiology community; even the lowly arbovirus researchers of the world (hello there!) that do not even know it yet. 
-
-If I had gotten in contact with them sooner, perhaps I would not have wasted multiple years working for free to produce research in the pursuit of pushing the scientific literature forward and to improve the world in some incremental way. Silly me. 
+So! I implore someone to connect me with one of these Big Pharma companies that manages to simultaneously operate in the shadows and control the entire epidemiology community; even the lowly arbovirus researchers of the world (hello there!) that do not even know it yet. If I had gotten in contact with them sooner, perhaps I would not have wasted multiple years working for free to produce research in the pursuit of pushing the scientific literature forward and to improve the world in some incremental way. Silly me; I should have just gone for a medical degree and grifted on the internet.
 
 
 # The Comment Section!
+---
 Here are some selected comments from the relevant article. Laugh or cry at the absurdity; whatever works best for you. 
 
 ![Comment1](/assets/img/CHD_measles_Feb_1_comm.png)
